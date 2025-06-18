@@ -1,0 +1,10 @@
+History and evolution of Python
+
+Python's history began in the late 1980s with Guido van Rossum, who started its development as a hobby project in 1989 at CWI in the Netherlands. It was officially released in February 1991 as version 0.9.0. Python's evolution has seen several major releases, including 1.0 in 1994, 2.0 in 2000, and the influential 3.0 in 2008, which introduced significant changes and is not backward-compatible with earlier versions. 
+Here's a more detailed look at Python's history:
+Origins and Initial Development:
+Guido van Rossum, inspired by the ABC language, began developing Python as a successor to it. 
+He aimed to create a language that was easy to read, understand, and use for general-purpose applications. 
+The name "Python" was inspired by the British comedy troupe Monty Python's Flying Circus. 
+Python 0.9.0, released in 1991, featured exception handling, functions, and modules, which were key building blocks for future development. 
+Major Releases and Evolution:
